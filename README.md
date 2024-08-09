@@ -17,35 +17,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
     3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
 1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
-### Template
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Gerando curriculo com IA
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+A partir de currilos prévios criei meu curriculo utilizando uma IA generativa
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+https://app.tealhq.com/resume-builder/resumes/e3c4b250-dd8c-4b8c-985b-05faec1ee0fb/preview
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Pesquisei diversos geradores de curriculo até encontrar a melhor opção gratuita.
+Reuni diversos curriculos que ja havia criado e realizei o upload deles no site.
+A ferramenta gerou o template compilando todas as informações eu terminei de detalhar.[my resume.pdf](https://github.com/user-attachments/files/16555838/my.resume.pdf)
+[my resume.pdf](https://github.com/user-attachments/files/16555836/my.resume.pdf)
+
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
