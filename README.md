@@ -31,7 +31,7 @@ Pesquisei diversos geradores de curriculo até encontrar a melhor opção gratui
 Reuni diversos curriculos que ja havia criado e realizei o upload deles no site.
 
 A ferramenta gerou o template compilando todas as informações eu terminei de detalhar.
-[My resume](https://github.com/rodrigo-kazuki/Using-IA/tree/main/exemplos/my.resume.pdf)
+[My resume](https://github.com/rodrigo-kazuki/Using-IA/tree/main/exemplos/my_resume.pdf)
 
 ## 🚀 Resultados
 
