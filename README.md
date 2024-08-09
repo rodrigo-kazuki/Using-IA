@@ -29,9 +29,9 @@ https://app.tealhq.com/resume-builder/resumes/e3c4b250-dd8c-4b8c-985b-05faec1ee0
 ## 🧐 Processo de Criação
 Pesquisei diversos geradores de curriculo até encontrar a melhor opção gratuita.
 Reuni diversos curriculos que ja havia criado e realizei o upload deles no site.
-A ferramenta gerou o template compilando todas as informações eu terminei de detalhar.[my resume.pdf](https://github.com/user-attachments/files/16555838/my.resume.pdf)
-[my resume.pdf](https://github.com/user-attachments/files/16555836/my.resume.pdf)
 
+A ferramenta gerou o template compilando todas as informações eu terminei de detalhar.
+[My resume](https://github.com/rodrigo-kazuki/Using-IA/tree/main/exemplos/my.resume.pdf)
 
 ## 🚀 Resultados
 
